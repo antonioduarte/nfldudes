@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Bem-vindos(as) ao NFL Dudes
 
-You can use the [editor on GitHub](https://github.com/antonioduarte/nfldudes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Somos um grupo de NFL Fantasy que compete de forma saudável e busca diversão.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Para participar você deve ser convidado por membros(as) ou ex-membros(as).
 
-### Markdown
+## História
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2017
 
-```markdown
-Syntax highlighted code block
+#### Equipes
 
-# Header 1
-## Header 2
-### Header 3
+Em 2017 a NFL Dudes contou com 10 equipes:
 
-- Bulleted
-- List
+| Nome     | Time              |
+| -------- | ----------------- |
+| Antonio  | Toners            |
+| Luana    | Macarena          |
+| Rodrigo  | Mamas and Papas   |
+| Vinicius | Vjusto            |
+| Daniel   | Green Bay Leiters |
+| Henrique | Salvaro           |
+| Pedro    | Los Caneludos     |
+| Arthur   | Leks              |
+| Thalles  | FLN koalas        |
+| Bruno    | Billy Boys        |
 
-1. Numbered
-2. List
+#### Resultados
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/antonioduarte/nfldudes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Standings 2017](https://antonioduarte.github.io/nfldudes/images/standings-2017.png)
