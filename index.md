@@ -1,14 +1,31 @@
 ## Bem-vindos(as) ao NFL Dudes
 
-Somos um grupo de NFL Fantasy que compete de forma saudável e busca diversão.
+Somos um grupo de Fantasy da NFL que compete de forma saudável por diversão.
 
 Para participar você deve ser convidado por membros(as) ou ex-membros(as).
+
+## Plataforma & Modelo
+
+A NFL Dudes utiliza a plataforma [NFL Fantasy](https://fantasy.nfl.com/). Até 2019 a League seguiu o modelo Standard, porém mudou para o modelo PPR em 2020 seguindo a tendência mundial.
 
 ## História
 
 ### 2019
 
-2019 marcou pelo aumento da profundidade da League, dessa vez com 16 times. Devido ao aumento dos times foi reduzido o número de jogadores por time, com apenas 4 jogadores no banco. 
+2019 marcou pelo aumento da profundidade da League, dessa vez com 16 times. Devido ao aumento dos times foi reduzido o número de jogadores por time, com apenas 4 jogadores no banco. Os playoffs também foram diferentes em relação a 2018, com 3 semanas (15, 16 e 17) e 8 times.
+
+Formação:
+
+- Quarterback (QB) - 1
+- Running Back (RB) - 2
+- Wide Receiver (WR) - 2
+- Tight End (TE) - 1
+- Kicker (K) - 1
+- Defensive Team (DEF) - 1
+- Wide Receiver / Running Back (W/R) - 1
+- Bench (BN) - 4
+
+Membros: 
 
 | Nome | Time |
 | ------ | ------ |
@@ -41,13 +58,26 @@ Ex-membros:
 | Rodrigo | Mamas and Papas |
 | Pedro | Los Caneludos |
 
-Em 2019 os playoffs aconteceram nas semanas 15, 16 e 17. 
+Esse ano ficou marcado pela ascensão expressiva do Leks com 4 vitória seguidas antes de ser derrotado na semi-final. 
 
 ![Standings 2019](https://antonioduarte.github.io/nfldudes/images/standings-2019.png)
 
 ### 2018
 
 Em 2018 a NFL Dudes cresceu para 14 times, aumentando o desafio em relação a seleção de jogadores.
+
+Formação:
+
+- Quarterback (QB) - 1
+- Running Back (RB) - 2
+- Wide Receiver (WR) - 2
+- Tight End (TE) - 1
+- Kicker (K) - 1
+- Defensive Team (DEF) - 1
+- Wide Receiver / Running Back (W/R) - 1
+- Bench (BN) - 6
+
+Membros:
 
 | Nome | Time |
 | ------ | ------ |
@@ -77,7 +107,20 @@ Nesse ano o novato Igor surpreendeu, levando a vitória:
 
 ### 2017
 
-Em 2017 a NFL Dudes contou com 10 times:
+Em 2017 a NFL Dudes iniciou com 10 times, sendo todos iniciantes no Fantasy NFL. 
+
+Formação:
+
+- Quarterback (QB) - 1
+- Running Back (RB) - 2
+- Wide Receiver (WR) - 2
+- Tight End (TE) - 1
+- Kicker (K) - 1
+- Defensive Team (DEF) - 1
+- Wide Receiver / Running Back (W/R) - 1
+- Bench (BN) - 6
+
+Membros:
 
 | Nome     | Time              |
 | -------- | ----------------- |
