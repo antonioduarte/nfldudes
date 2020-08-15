@@ -2,7 +2,9 @@
 
 Somos um grupo de Fantasy da NFL que compete de forma saudável por diversão.
 
-Para participar você deve ser convidado por membros(as) ou ex-membros(as).
+Para participar você deve ser convidado por membros(as) ou ex-membros(as). 
+
+A League não possui fins lucrativos, mas cada participante contribui com R$ 60,00 que são 100% convertidos em prêmios, sendo a prioridade uma **camiseta oficial da NFL** escolhida pelo vencedor.
 
 ## Plataforma & Modelo
 
@@ -60,7 +62,7 @@ Ex-membros:
 
 #### Resultados
 
-Esse ano ficou marcado pela ascensão expressiva do Leks com 4 vitória seguidas antes de ser derrotado na semi-final. 
+Além da performance do Gobbi saindo de último para vencedor em relação ao ano anterior, esse ano também ficou marcado pela ascensão expressiva do Leks com 4 vitória seguidas antes de ser derrotado na semi-final. 
 
 ![Standings 2019](https://antonioduarte.github.io/nfldudes/images/standings-2019.png)
 
