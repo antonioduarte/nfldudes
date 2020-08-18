@@ -10,7 +10,7 @@ A League não possui fins lucrativos, mas cada participante contribui com R$ 60,
 
 A NFL Dudes utiliza a plataforma [NFL Fantasy](https://fantasy.nfl.com/). Até 2019 a League seguiu o modelo Standard, porém mudou para o modelo PPR em 2020 seguindo a tendência mundial.
 
-## Bem-vindos a temporada de 2020! 
+## Bem-vindos(as) a temporada de 2020! 
 
 Em 2020 a NFL Dudes irá contar com duas Leagues de 10 pessoas (Gold e Silver), totalizando 20 times. Uma League será destinada aos primeiros 10 colocados de 2019, a segunda League contará com os demais jogadores de 2019, além de novos membros. 
 
