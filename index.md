@@ -2,19 +2,27 @@
 
 Somos um grupo de Fantasy da NFL que compete de forma saudável por diversão.
 
-Para participar você deve ser convidado por membros(as) ou ex-membros(as). 
+Para participar você deve ser convidado por membros(as) ou ex-membros(as).
 
-A League não possui fins lucrativos, mas cada participante contribui com R$ 60,00 que são 100% convertidos em prêmios, sendo a prioridade uma **camiseta oficial da NFL** escolhida pelo vencedor.
+Com o aumento do número de pessoas foram criadas múltiplas leagues (NFL Dudes Gold e NFL Dudes Silver). Considerando os resultados do ano anterior, a NFL Gold é composta pelos cinco primeiros colocados da NFL Gold em si, mais os cinco primeiros colocados da NFL Silver. A NFL Silver é composta pelos cinco últimos colocados de cada league. A ideia é seguir o mesmo principio criando uma terceira league Bronze quando necessário.
+
+A NFL Dudes não possui fins lucrativos, mas cada participante contribui com R$ 60,00 que são 100% convertidos em prêmios, sendo a prioridade uma **camiseta oficial da NFL** escolhida pelo vencedor de cada league (Gold e Silver).
 
 ## Plataforma & Modelo
 
 A NFL Dudes utiliza a plataforma [NFL Fantasy](https://fantasy.nfl.com/). Até 2019 a League seguiu o modelo Standard, porém mudou para o modelo PPR em 2020 seguindo a tendência mundial.
 
-## Bem-vindos(as) a temporada de 2020! 
+## Temporada de 2021
 
-Em 2020 a NFL Dudes irá contar com duas Leagues de 10 pessoas (Gold e Silver), totalizando 20 times. Uma League será destinada aos primeiros 10 colocados de 2019, a segunda League contará com os demais jogadores de 2019, além de novos membros. 
+Estão abertas as inscrições para temporada 2021!
 
-Pensando em 2021, os primeiros cinco colocados de cada League irão participar da NFL Dudes Gold, e os últimos cinco colocados de cada League irão participar da NFL Dudes Silver. 
+## História
+
+### 2020
+
+Em 2020 a NFL Dudes contou com duas Leagues de 10 pessoas (Gold e Silver), totalizando 20 times. Uma League foi destinada aos primeiros 10 colocados de 2019, a segunda League contou com os demais jogadores de 2019, além de novos membros.
+
+Em 2021 os cinco primeiros colocados de cada League irão compor a NFL Dudes Gold, e os últimos cinco de cada league irão formar a league NFL Dudes Silver.
 
 Formação:
 
@@ -28,51 +36,53 @@ Formação:
 - Bench (BN) - 4
 - Reserve (RES) - 3
 
-Ordem do Draft: 
+Ordem do Draft:
 
 **Gold**:
 
-| Pos | Nome | Time |
-| --- | ------ | ------ |
-| 1.  | Igor | Floripa Manatees |
-| 2.  | Janine | Atlanta Pidgeotto |
-| 3.  | Antonio | Toners | 
-| 4.  | Daniel | Floripa Hikers | 
-| 5.  | Bruno | Billy Boys | 
-| 6.  | Thalles | FLN koalas | 
-| 7.  | Arthur | Leks | 
-| 8.  | Vinicius | Vjusto | 
-| 9.  | Daniel | Green Bay Leiters |
+| Pos | Nome     | Time               |
+| --- | -------- | ------------------ |
+| 1.  | Igor     | Floripa Manatees   |
+| 2.  | Janine   | Atlanta Pidgeotto  |
+| 3.  | Antonio  | Toners             |
+| 4.  | Daniel   | Floripa Hikers     |
+| 5.  | Bruno    | Billy Boys         |
+| 6.  | Thalles  | FLN koalas         |
+| 7.  | Arthur   | Leks               |
+| 8.  | Vinicius | Vjusto             |
+| 9.  | Daniel   | Green Bay Leiters  |
 | 10. | Leonardo | Gobbi Game Winners |
 
 **Silver**:
 
-| Pos | Nome | Time |
-| --- | ------ | ------ |
-| 1.  | Luana | Macarena | 
+| Pos | Nome     | Time              |
+| --- | -------- | ----------------- |
+| 1.  | Luana    | Macarena          |
 | 2.  | Henrique | Salvaro Heinekens |
-| 3.  | Endy | Endy Legends |
-| 4.  | Augusto | Gutaro | 
+| 3.  | Endy     | Endy Legends      |
+| 4.  | Augusto  | Gutaro            |
 
 Novos membros:
 
-| Pos | Nome | Time |
-| --- | ------ | ------ |
-| 5. | Bruno | Totti Islanders |
-| 6. | Arthur | Badarants |
-| 7. | Augusto | Joinville Alfas |
-| 8. | Gustavo | Team 10 |
-| 9. | Marco | Mlenzi |
-| 10. | Corina | Co Runners |
+| Pos | Nome    | Time            |
+| --- | ------- | --------------- |
+| 5.  | Bruno   | Totti Islanders |
+| 6.  | Arthur  | Badarants       |
+| 7.  | Augusto | Joinville Alfas |
+| 8.  | Gustavo | Team 10         |
+| 9.  | Marco   | Mlenzi          |
+| 10. | Corina  | Co Runners      |
 
 Ex-membros:
 
-| Nome | Time |
-| ------ | ------ |
+| Nome  | Time             |
+| ----- | ---------------- |
 | Thais | Philadelphia Hot |
-| Lucas | Adventurers |
+| Lucas | Adventurers      |
 
-## História
+#### Resultados
+
+![Standings 2019](https://antonioduarte.github.io/nfldudes/images/standings-2020.png)
 
 ### 2019
 
@@ -89,42 +99,42 @@ Formação:
 - Wide Receiver / Running Back (W/R) - 1
 - Bench (BN) - 4
 
-Ordem do Draft: 
+Ordem do Draft:
 
-| Pos | Nome | Time |
-| --- | ------ | ------ |
+| Pos | Nome     | Time               |
+| --- | -------- | ------------------ |
 | 1.  | Leonardo | Gobbi Game Winners |
-| 2.  | Henrique | Salvaro |
-| 3.  | Endy | Endy Gamers |
-| 4.  | Bruno | Billy Boys |
-| 5.  | Daniel | Green Bay Leiters |
-| 6.  | Arthur | Leks |
-| 7.  | Vinicius | Vjusto |
-| 8.  | Luana | Macarena |
-| 9.  | Thalles | FLN koalas |
-| 10. | Antonio | Toners | 
-| 11. | Daniel | Floripa Hikers |
-| 12. | Igor | Floripa Manatees |
+| 2.  | Henrique | Salvaro            |
+| 3.  | Endy     | Endy Gamers        |
+| 4.  | Bruno    | Billy Boys         |
+| 5.  | Daniel   | Green Bay Leiters  |
+| 6.  | Arthur   | Leks               |
+| 7.  | Vinicius | Vjusto             |
+| 8.  | Luana    | Macarena           |
+| 9.  | Thalles  | FLN koalas         |
+| 10. | Antonio  | Toners             |
+| 11. | Daniel   | Floripa Hikers     |
+| 12. | Igor     | Floripa Manatees   |
 
 Novos membros:
 
-| Pos | Nome | Time |
-| --- | ------ | ------ |
-| 13. | Thais | Philadelphia Hot |
-| 14. | Janine | Atlanta Pidgeotto |
-| 15. | Augusto | Gutaro |
-| 16. | Lucas | Adventurers |
+| Pos | Nome    | Time              |
+| --- | ------- | ----------------- |
+| 13. | Thais   | Philadelphia Hot  |
+| 14. | Janine  | Atlanta Pidgeotto |
+| 15. | Augusto | Gutaro            |
+| 16. | Lucas   | Adventurers       |
 
 Ex-membros:
 
-| Nome | Time |
-| ------ | ------ |
+| Nome    | Time            |
+| ------- | --------------- |
 | Rodrigo | Mamas and Papas |
-| Pedro | Los Caneludos |
+| Pedro   | Los Caneludos   |
 
 #### Resultados
 
-Além da performance do Gobbi saindo de último para vencedor em relação ao ano anterior, esse ano também ficou marcado pela ascensão expressiva do Leks com 4 vitória seguidas antes de ser derrotado na semi-final. 
+Além da performance do Gobbi saindo de último para vencedor em relação ao ano anterior, esse ano também ficou marcado pela ascensão expressiva do Leks com 4 vitória seguidas antes de ser derrotado na semi-final.
 
 ![Standings 2019](https://antonioduarte.github.io/nfldudes/images/standings-2019.png)
 
@@ -143,29 +153,29 @@ Formação:
 - Wide Receiver / Running Back (W/R) - 1
 - Bench (BN) - 6
 
-Ordem do Draft: 
+Ordem do Draft:
 
-| Pos | Nome | Time |
-| --- | ------ | ------ |
-| 1.  | Vinicius | Vjusto |
-| 2.  | Thalles | FLN koalas |
-| 3.  | Pedro | Los Caneludos |
-| 4.  | Daniel | Green Bay Leiters |
-| 5.  | Arthur | Leks |
-| 6.  | Bruno | Billy Boys |
-| 7.  | Henrique | Salvaro |
-| 8.  | Antonio | Toners |
-| 9.  | Rodrigo | Mamas and Papas |
-| 10. | Luana | Macarena |
+| Pos | Nome     | Time              |
+| --- | -------- | ----------------- |
+| 1.  | Vinicius | Vjusto            |
+| 2.  | Thalles  | FLN koalas        |
+| 3.  | Pedro    | Los Caneludos     |
+| 4.  | Daniel   | Green Bay Leiters |
+| 5.  | Arthur   | Leks              |
+| 6.  | Bruno    | Billy Boys        |
+| 7.  | Henrique | Salvaro           |
+| 8.  | Antonio  | Toners            |
+| 9.  | Rodrigo  | Mamas and Papas   |
+| 10. | Luana    | Macarena          |
 
 Novos membros:
 
-| Pos | Nome | Time |
-| --- | ------ | ------ |
-| 11. | Daniel | Floripa Hikers |
+| Pos | Nome     | Time               |
+| --- | -------- | ------------------ |
+| 11. | Daniel   | Floripa Hikers     |
 | 12. | Leonardo | Gobbi Game Winners |
-| 13. | Endy | Endy Gamers |
-| 14. | Igor | Floripa Manatees |
+| 13. | Endy     | Endy Gamers        |
+| 14. | Igor     | Floripa Manatees   |
 
 #### Resultados
 
